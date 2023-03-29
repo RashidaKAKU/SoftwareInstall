@@ -1,5 +1,6 @@
 # 软件安装器的说明
 > 本软件由IT天空[小鱼儿YR](https://www.yrxitong.com)大佬制作
+
 > 本定制款云端软件聚合者联系方式
 > QQ：3169655746
 > [Github](https://github.com/RashidaKAKU)
